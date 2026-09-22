@@ -3,7 +3,7 @@ package scoring
 import (
 	"testing"
 
-	"github.com/Edudlufetips1/threat-shield/internal/model"
+	"github.com/asadQ-dev/threat-shield/internal/model"
 )
 
 func TestEvaluateVulnerability(t *testing.T) {

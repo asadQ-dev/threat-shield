@@ -9,11 +9,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Edudlufetips1/threat-shield/internal/auth"
-	"github.com/Edudlufetips1/threat-shield/internal/collector"
-	"github.com/Edudlufetips1/threat-shield/internal/db"
-	"github.com/Edudlufetips1/threat-shield/internal/scoring"
-	"github.com/Edudlufetips1/threat-shield/internal/worker"
+	"github.com/asadQ-dev/threat-shield/internal/auth"
+	"github.com/asadQ-dev/threat-shield/internal/collector"
+	"github.com/asadQ-dev/threat-shield/internal/db"
+	"github.com/asadQ-dev/threat-shield/internal/scoring"
+	"github.com/asadQ-dev/threat-shield/internal/worker"
 
 	"github.com/joho/godotenv"
 )

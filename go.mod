@@ -1,4 +1,4 @@
-module github.com/Edudlufetips1/threat-shield
+module github.com/asadQ-dev/threat-shield
 
 go 1.26.8
 

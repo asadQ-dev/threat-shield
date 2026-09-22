@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Edudlufetips1/threat-shield/internal/model"
+	"github.com/asadQ-dev/threat-shield/internal/model"
 )
 
 func SendNewVulnerabilityAlert(vuln model.Vulnerability) error {
