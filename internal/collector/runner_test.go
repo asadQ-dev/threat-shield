@@ -6,8 +6,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/Edudlufetips1/threat-shield/internal/db"
-	"github.com/Edudlufetips1/threat-shield/internal/scoring"
+	"github.com/asadQ-dev/threat-shield/internal/db"
+	"github.com/asadQ-dev/threat-shield/internal/scoring"
 )
 
 func TestCollectData(t *testing.T) {

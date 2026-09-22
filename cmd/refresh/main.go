@@ -6,9 +6,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Edudlufetips1/threat-shield/internal/collector"
-	"github.com/Edudlufetips1/threat-shield/internal/db"
-	"github.com/Edudlufetips1/threat-shield/internal/scoring"
+	"github.com/asadQ-dev/threat-shield/internal/collector"
+	"github.com/asadQ-dev/threat-shield/internal/db"
+	"github.com/asadQ-dev/threat-shield/internal/scoring"
 	"github.com/joho/godotenv"
 )
 
