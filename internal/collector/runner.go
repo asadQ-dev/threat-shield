@@ -7,9 +7,9 @@ import (
 	stdlog "log"
 	"net/http"
 
-	"github.com/Edudlufetips1/threat-shield/internal/db"
-	"github.com/Edudlufetips1/threat-shield/internal/model"
-	"github.com/Edudlufetips1/threat-shield/internal/scoring"
+	"github.com/asadQ-dev/threat-shield/internal/db"
+	"github.com/asadQ-dev/threat-shield/internal/model"
+	"github.com/asadQ-dev/threat-shield/internal/scoring"
 	"github.com/jackc/pgx/v5/pgxpool"
 )
 
