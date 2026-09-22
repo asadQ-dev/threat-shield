@@ -3,7 +3,7 @@ package db
 import (
 	"context"
 
-	"github.com/Edudlufetips1/threat-shield/internal/model"
+	"github.com/asadQ-dev/threat-shield/internal/model"
 	"github.com/jackc/pgx/v5/pgxpool"
 )
 
